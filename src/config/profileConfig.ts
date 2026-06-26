@@ -37,7 +37,7 @@ export const profileConfig: ProfileConfig = {
 			name: "Email",
 			icon: "fa7-solid:envelope",
 			url: "18575505853@163.com",
-			showName: false,
+			showName: true,
 		},
 		{
 			name: "RSS",
